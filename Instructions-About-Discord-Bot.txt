@@ -1,0 +1,15 @@
+Hii there so let's directly go to the topic 
+
+So first we need to see how to make a bot 
+
+First you need to create a discord account then go to the discord developer protal (just search in google) login to the devloper protal
+Now just head on to applications in devloper protal and create a application and go to bot and add bot 
+So there in the bot thing you will find click to reveal token then copy the token and paste the token in the py file 
+
+Now how to add the bot to the server is you need administrator permissions to add the bot to a server 
+Go to Oauth2 and there you will find some list there find bot and click the checkbox over there and then down you will find a link copy the link and paste in any browser to add the bot
+And select the server in which you want to add the bot...
+There you go solve captcha code and the bot's in
+You need to run the py file so that the bot will run and you can type the commands
+
+Thanks for your time 
