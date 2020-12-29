@@ -1,0 +1,20 @@
+So yeah if you are done with the code whatever you want then you need not to open the editor and run it you can make exe file and run
+
+First of all you need to install pyinstaller
+
+pip install pyinstaller
+
+Now go to the path where the py file is there like to move to any folder or path you need to use 
+
+cd desktop
+cd python
+
+or whereever your py file is in
+cd let you to move to the path folder or destination 
+
+In cmd or terminal type :
+pyinstaller --onefile "filename.py"
+example:
+pyinstaller --onefile "Making-A-Discord-bot-Using-Python.py"
+
+Thanks for your time
