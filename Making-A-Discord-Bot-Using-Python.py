@@ -4,7 +4,7 @@ from discord.ext import commands
 
 TOKEN = "enter you token here"
 
-client = commands.Bot(command_prefix="@")#or anything you want buy which you will call this function 
+client = commands.Bot(command_prefix="@")#or anything you want by which you will call this function 
 
 @client.event()
 async def on_ready():
