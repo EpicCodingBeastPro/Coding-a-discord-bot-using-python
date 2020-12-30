@@ -14,5 +14,5 @@ async def on_ready():
 async def hello(ctx):
 	await ctx.send("Hey there how are you doing")#so you can do the same way anything you want 
 
-client.run(TOKEN)#so in the satrting we gave like TOKEN so we are running the bot using this or simply you can just insert your token directly to see how to see the token then see the above things
+client.run(TOKEN)#so in the starting we gave like TOKEN so we are running the bot using this or simply you can just insert your token directly to see how to see the token then see the above things
 	
